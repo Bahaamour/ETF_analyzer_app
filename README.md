@@ -53,6 +53,24 @@ conda install -c conda-forge voila
 
 ## Usage
 
+To run the Notebook from the command line, follow the steps:
+
+1)Open your terminal and activate your conda `dev` environment.
+
+```python
+conda activate dev
+```
+
+2) Navigate to the folder. 
+
+3) Run the following code"
+
+```python
+voila etf_analyzer.ipynb
+```
+
+![Sample Report](/Images/bokeh_plot.png) 
+
 
 
 
