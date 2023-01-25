@@ -69,7 +69,7 @@ conda activate dev
 voila etf_analyzer.ipynb
 ```
 
-![Sample Report](/Images/bokeh_plot.png) 
+![Sample Report](/Images/voila video.mov) 
 
 
 
