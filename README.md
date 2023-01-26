@@ -63,7 +63,7 @@ conda activate dev
 
 2) Navigate to the folder. 
 
-3) Run the following code"
+3) Run the following code:
 
 ```python
 voila etf_analyzer.ipynb
