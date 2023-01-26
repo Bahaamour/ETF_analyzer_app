@@ -69,7 +69,7 @@ conda activate dev
 voila etf_analyzer.ipynb
 ```
 
-![Sample Report](https://www.youtube.com/watch?v=oWQOiqmh_Hk) 
+![Sample Report](/Images/Screen Recording 2023-01-25 at 6.57.27 PM.mov) 
 
 
 
