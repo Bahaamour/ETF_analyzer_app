@@ -69,7 +69,10 @@ conda activate dev
 voila etf_analyzer.ipynb
 ```
 
-![Sample Report](/Images/Screen Recording 2023-01-25 at 6.57.27 PM.mov) 
+![Sample Report](/Images/Voila1.png) 
+![Sample Report](/Images/Voila2.png) 
+
+Note: Please refer to Videos folder to see full screen record of running the Voilà.
 
 
 
