@@ -72,7 +72,7 @@ voila etf_analyzer.ipynb
 ![Sample Report](/Images/Voila1.png) 
 ![Sample Report](/Images/Voila2.png) 
 
-Note: Please refer to Videos folder to see full screen record of running the Voilà.
+
 
 
 
